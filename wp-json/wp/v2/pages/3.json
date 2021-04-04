@@ -1,0 +1,87 @@
+{
+    "id": 3,
+    "date": "2020-11-16T19:18:59",
+    "date_gmt": "2020-11-16T19:18:59",
+    "guid": {
+        "rendered": "http:\/\/winbigmoney.flywheelsites.com\/?page_id=3"
+    },
+    "modified": "2021-01-06T22:34:06",
+    "modified_gmt": "2021-01-06T22:34:06",
+    "slug": "privacy-policy",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/winbigmoney.com\/privacy-policy\/",
+    "title": {
+        "rendered": "Privacy Policy"
+    },
+    "content": {
+        "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"3\" class=\"elementor elementor-3\" data-elementor-settings=\"[]\">\n\t\t\t\t\t\t<div class=\"elementor-inner\">\n\t\t\t\t\t\t\t<div class=\"elementor-section-wrap\">\n\t\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-407cd40d elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"407cd40d\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t<div class=\"elementor-shape elementor-shape-bottom\" data-negative=\"false\">\n\t\t\t<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 1000 100\" preserveAspectRatio=\"none\">\n\t<path class=\"elementor-shape-fill\" opacity=\"0.33\" d=\"M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z\"\/>\n\t<path class=\"elementor-shape-fill\" opacity=\"0.66\" d=\"M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z\"\/>\n\t<path class=\"elementor-shape-fill\" d=\"M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z\"\/>\n<\/svg>\t\t<\/div>\n\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-370a247a\" data-id=\"370a247a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1d0a6ade elementor-widget elementor-widget-heading\" data-id=\"1d0a6ade\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Privacy Policy<\/h2>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-36f97a9d elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"36f97a9d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t\t\t<div class=\"elementor-row\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-41e58b7c\" data-id=\"41e58b7c\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-column-wrap elementor-element-populated\">\n\t\t\t\t\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-134ca021 elementor-widget elementor-widget-text-editor\" data-id=\"134ca021\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-text-editor elementor-clearfix\"><!-- wp:heading -->\n<p class=\"p1\"><i>At Win Big Money we are committed to respecting and protecting your privacy. We provide this privacy policy to explain how your information is collected, why we are collecting it, and what we do to keep it secure as we maintain the trust and confidence of our customers.<span class=\"Apple-converted-space\">\u00a0<\/span><\/i><\/p>\n<p class=\"p1\"><strong>How is my information collected?<\/strong><\/p>\n<p class=\"p1\">We collect personal and anonymous information through data collection. Data collection is gathered when members visit our website, register for accounts, communicate with Win Big Money team members, interact with our Facebook page, respond to surveys and emails, respond via text and texting services, fill out forms, participate in events and promotions, and through other activities, services, features and resources. You warrant any contact information you provide to be true and accurate. You further warrant that you are the owner\/subscriber for any phone number, email address, or any other source of communication you provide. By voluntarily providing your information you agree to receive communications from Win Big Money via text, private message, email, or phone call. You further agree to automatic and promotional communications from Win Big Money including all informational communications as well.<\/p>\n<p class=\"p1\"><strong>What information does Win Big Money collect?<\/strong><\/p>\n<p class=\"p1\">Win Big Money will collect personal and anonymous information from each member to provide the best gaming experience available. We collect contact details(name, email, state of residence and phone numbers, and Facebook name), personal information (gender and age), account details (login information), transaction information (donations, redemptions, and game play), financial information (information used for redemptions and donations) chat information, interests and opinions information, social media information (private messages, comments, reviews, contact), activity and technical information (game time, visits, logins and logouts, device history), and social security numbers when required by law for tax or other legal reasons.<\/p>\n<p class=\"p1\"><strong>How is this information used?<\/strong><\/p>\n<p class=\"p1\">Win Big Money uses the data collected to operate and provide our products and services. Information is further used to verify legal age, player eligibility, promotional eligibility, apply donations and process redemptions, create, delete, or alter accounts, respond to questions, and for legal purposes. Information collected will also be used to improve customer services, manage services, personalize member experience, and contact members with important and promotional notices about our services and products. Information may be used for legal and resolution services. You at anytime have the right to request information that we may have about you. You may also opt-out of commercial messages.<\/p>\n<p class=\"p1\"><strong>How is my information protected?<\/strong><\/p>\n<p class=\"p1\">Win Big Money has in place, physical, electronic, and operational procedures to protect the information collected. Appropriate data collection, storing, and processing practices and security measures are taken to protect against unauthorized access, alterations, disclosure, or removal of any information collected.<span class=\"Apple-converted-space\">\u00a0<\/span><\/p>\n<p class=\"p1\"><strong>Is my information shared?<\/strong><\/p>\n<p class=\"p1\">Win Big Money will not sell, trade, or rent your information to others. Your personal information may be used through other companies and third parties to provide services to you on our behalf. Your information may be shared in response to lawful request by public authorities to meet legal requirements.<\/p>\n<p class=\"p1\">Your Personal Information may be used to provide the sweepstakes; resolve disputes; prevent potentially prohibited or illegal activities; enforce these Rules; inform you about our services and those of affiliated companies; targeted marketing and promotions; and respond to legal requirements.<\/p>\n<p class=\"p1\">Except where prohibited, participation in the sweepstakes constitutes winner&#8217;s consent to Win Big Money&#8217;s use of winner&#8217;s name, likeness, voice, opinions, hometown and state for promotional purposes in any media, worldwide, without further payment or consideration.<\/p>\n<p class=\"p1\"><i>Changes to this privacy policy may take place from time to time to reflect the way we work, services and products we offer, and as legally required. Any updates made to this privacy policy will become effective upon posting to our website. We encourage members to check back frequently for updates and changes made.<span class=\"Apple-converted-space\">\u00a0<\/span><\/i><\/p>\n<!-- \/wp:heading --><\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>At Win Big Money we are committed to respecting and protecting your privacy. We provide this privacy policy to explain how your information is collected, why we are collecting it, and what we do to keep it secure as we maintain the trust and confidence of our customers.\u00a0 How is my information collected? We collect [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "open",
+    "template": "",
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO Premium plugin v15.9.1 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Privacy Policy - Win Big Money<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/winbigmoney.com\/privacy-policy\/\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"article\" \/>\n<meta property=\"og:title\" content=\"Privacy Policy - Win Big Money\" \/>\n<meta property=\"og:description\" content=\"At Win Big Money we are committed to respecting and protecting your privacy. We provide this privacy policy to explain how your information is collected, why we are collecting it, and what we do to keep it secure as we maintain the trust and confidence of our customers.\u00a0 How is my information collected? We collect [&hellip;]\" \/>\n<meta property=\"og:url\" content=\"https:\/\/winbigmoney.com\/privacy-policy\/\" \/>\n<meta property=\"og:site_name\" content=\"Win Big Money\" \/>\n<meta property=\"article:modified_time\" content=\"2021-01-06T22:34:06+00:00\" \/>\n<meta name=\"twitter:card\" content=\"summary_large_image\" \/>\n<meta name=\"twitter:label1\" content=\"Est. reading time\">\n\t<meta name=\"twitter:data1\" content=\"3 minutes\">\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/winbigmoney.com\/#website\",\"url\":\"https:\/\/winbigmoney.com\/\",\"name\":\"Win Big Money\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https:\/\/winbigmoney.com\/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https:\/\/winbigmoney.com\/privacy-policy\/#webpage\",\"url\":\"https:\/\/winbigmoney.com\/privacy-policy\/\",\"name\":\"Privacy Policy - Win Big Money\",\"isPartOf\":{\"@id\":\"https:\/\/winbigmoney.com\/#website\"},\"datePublished\":\"2020-11-16T19:18:59+00:00\",\"dateModified\":\"2021-01-06T22:34:06+00:00\",\"breadcrumb\":{\"@id\":\"https:\/\/winbigmoney.com\/privacy-policy\/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/winbigmoney.com\/privacy-policy\/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/winbigmoney.com\/privacy-policy\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/winbigmoney.com\/\",\"url\":\"https:\/\/winbigmoney.com\/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https:\/\/winbigmoney.com\/privacy-policy\/\",\"url\":\"https:\/\/winbigmoney.com\/privacy-policy\/\",\"name\":\"Privacy Policy\"}}]}]}<\/script>\n<!-- \/ Yoast SEO Premium plugin. -->",
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/pages\/3"
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/comments?post=3"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 10,
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/pages\/3\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 267,
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/pages\/3\/revisions\/267"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/winbigmoney.com\/wp-json\/wp\/v2\/media?parent=3"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
